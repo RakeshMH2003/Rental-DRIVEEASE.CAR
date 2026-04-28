@@ -1,6 +1,4 @@
-Here is a **clean, interactive README.md file** for your **DriveEase Car Rental Project** based on your uploaded HTML, CSS, and JS files   
 
-You can copy-paste this directly into your GitHub project.
 
 ---
 
@@ -165,7 +163,7 @@ Click **Admin Login button** (no password required)
 Feel free to fork and improve:
 
 ```bash
-git clone https://github.com/your-repo/driveease.git
+[git clone https://github.com/your-repo/driveease.git](https://rakeshmh2003.github.io/Rental-DRIVEEASE.CAR/)
 ```
 
 ---
